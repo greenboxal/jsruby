@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jonathan Lima <greenboxal@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "harmony-reflect": "^1.1.1"
+  }
 }
