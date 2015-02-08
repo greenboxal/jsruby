@@ -9,6 +9,7 @@
   "author": "Jonathan Lima <greenboxal@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "function-name": "0.0.3",
     "harmony-reflect": "^1.1.1"
   }
 }
